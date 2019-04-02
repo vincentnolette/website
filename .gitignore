@@ -1,12 +1,11 @@
 # files
+.DS_Store
 .dropbox
 .Rapp.history
 .RData
 .Rhistory
-DRAFT*
 serve
 
 # folders
 .Rproj.user
-data/strava-api-access
 public

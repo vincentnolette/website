@@ -1,22 +1,13 @@
-baseurl: "https://bldavies.com/"
+baseurl: ""
 blackfriday:
   fractions: false
 disableKinds: ["taxonomy", "taxonomyTerm", "sitemap"]
 footnotereturnlinkcontents: "↩"
 frontmatter:
   date: [":filename", ":default"]
-googleAnalytics: UA-123726505-4
 ignoreFiles: ["\\.rds$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 params:
-  author: Benjamin Davies
-  email: ben.davies@motu.org.nz
-  github: https://github.com/bldavies
-  highlightjsVersion: "9.12.0"
-  highlightjsCDN: "//cdn.bootcss.com"
-  highlightjsLang: ["r", "tex", "yaml"]
-  highlightjsTheme: "github-gist"
-  linkedin: https://www.linkedin.com/in/bl-davies/
-  repec: https://ideas.repec.org/f/pda777
-  scholar: https://scholar.google.co.nz/citations?user=iet9PyAAAAAJ
-  orcid: https://orcid.org/0000-0002-1749-4567
-title: Ben Davies
+  author: Vincent M. Nolette
+  email: vincent.nolette@motu.org.nz
+  github: https://github.com/vincentnolette
+title: vmnolette

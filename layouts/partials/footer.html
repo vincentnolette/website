@@ -1,10 +1,5 @@
 </div>
 <footer>
-  {{ partial "footer_highlightjs" . }}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.js"></script>
-  <script>anchors.add();</script>
-  <script src="{{ "js/math-code.js" | relURL }}"></script>
-  <script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
   <div class="container">
     <div class="footer-legal">
       &copy; 2018&ndash;{{ dateFormat "2006" now }} {{ .Site.Params.Author }}
@@ -12,7 +7,6 @@
     <div class="footer-links">
       <a href="mailto:{{ .Site.Params.Email }}">Email</a>
       <a href="{{ .Site.Params.Github }}">GitHub</a>
-      <a href="{{ .Site.Params.Linkedin }}">LinkedIn</a>
     </div>
   </div>
 </footer>
