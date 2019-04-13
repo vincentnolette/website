@@ -1,4 +1,4 @@
 ---
 title: Haiku
 ---
-No context necessary
+*No context necessary*
