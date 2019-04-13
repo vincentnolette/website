@@ -9,5 +9,6 @@ ignoreFiles: ["\\.rds$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 params:
   author: Vincent M. Nolette
   email: vincent.nolette@motu.org.nz
+  facebook: https://www.facebook.com/vincent.nolette
   github: https://github.com/vincentnolette
 title: vmnolette
