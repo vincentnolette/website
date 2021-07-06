@@ -4,5 +4,5 @@ title: Home
 
 # Vincent M. Nolette
 
-I am a first year law student at [City University of New York](https://www.law.cuny.edu/) (CUNY) in New York City.
+Hi, I'm Vince. I am thid year law student at City University of New York (CUNY) in New York City. I am interested in public health and the environment.
 
